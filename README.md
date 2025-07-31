@@ -1,2 +1,4 @@
-# building-a-simple-shell-in-c-part-1
-following https://ehoneahobed.hashnode.dev/building-a-simple-shell-in-c
+# building-a-simple-shell-in-c
+
+following:
+	- (Building a simple shell in C - Part 1)[https://ehoneahobed.hashnode.dev/building-a-simple-shell-in-c]
